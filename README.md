@@ -2015,6 +2015,8 @@ function Squash-Commits {
 
 ## Tutorials
 
+* [Youtube video tutorial](https://www.youtube.com/watch?v=8JJ101D3knE) - Git Tutorial Video
+
 * [19 Git Tips For Everyday Use](https://www.alexkras.com/19-git-tips-for-everyday-use) - A list of useful Git one liners
 * [Atlassian's Git tutorial](https://www.atlassian.com/git/tutorials) Get Git right with tutorials from beginner to advanced.
 * [Learn Git branching](https://learngitbranching.js.org/) An interactive web based branching/merging/rebasing tutorial
